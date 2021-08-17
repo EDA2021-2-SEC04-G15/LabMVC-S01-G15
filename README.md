@@ -30,5 +30,5 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 Equipo:
 
 Daniel Vargas -- 201822068 -- d.vargasm@uniandes.edu.co
-Camilo Garcia -- 201728914 -- ca.garciar1@uniandes.edu.co
+Camilo Garcia -- 201728914 -- ca.garciar1@uniandes.edu.co .
 
