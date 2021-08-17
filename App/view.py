@@ -23,6 +23,7 @@
  * Dario Correal - Version inicial
  """
 
+
 import config as cf
 import sys
 import controller
@@ -77,6 +78,9 @@ while True:
         tags = loadTags()
         print('Total de tags cargados: ' + str(lt.size(tags)))
 
+    elif int(inputs[0]) == 3:
+        print("Cargando información de Book_tags....")
+        
     # TODO: Modificaciones para el laboratorio 1.
 
     else:
